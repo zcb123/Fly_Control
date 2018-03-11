@@ -1,0 +1,17 @@
+Debug/system_stm32f4xx.o: \
+ e:\test\stm32cubemx\fly\drivers\cmsis\device\st\stm32f4xx\source\templates\system_stm32f4xx.c \
+ e:\test\stm32cubemx\fly\drivers\cmsis\device\st\stm32f4xx\include\stm32f4xx.h \
+ e:\test\stm32cubemx\fly\drivers\cmsis\device\st\stm32f4xx\include\stm32f407xx.h \
+ e:\test\stm32cubemx\fly\drivers\cmsis\include\core_cm4.h \
+ c:\sysgcc\arm-eabi\lib\gcc\arm-eabi\7.2.0\include\stdint.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\stdint.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\machine\_default_types.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\features.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\_newlib_version.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\_intsup.h \
+ c:\sysgcc\arm-eabi\arm-eabi\sys-include\sys\_stdint.h \
+ e:\test\stm32cubemx\fly\drivers\cmsis\include\core_cmInstr.h \
+ e:\test\stm32cubemx\fly\drivers\cmsis\include\cmsis_gcc.h \
+ e:\test\stm32cubemx\fly\drivers\cmsis\include\core_cmFunc.h \
+ e:\test\stm32cubemx\fly\drivers\cmsis\include\core_cmSimd.h \
+ e:\test\stm32cubemx\fly\drivers\cmsis\device\st\stm32f4xx\include\system_stm32f4xx.h
